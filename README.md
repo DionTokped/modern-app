@@ -35,3 +35,8 @@ pnpm serve
 ```
 
 For more information, see the [Modern.js documentation](https://modernjs.dev/en).
+
+
+### Issue
+- can't enable ssr with mf [SSR and module federation crash](https://github.com/web-infra-dev/modern.js/issues/6511)
+- suspense component doesnt work, defer still cant used
