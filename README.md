@@ -1,5 +1,7 @@
 # Modern.js App
 
+implement module federation (host) using [modernjs](https://modernjs.dev/en/).
+
 ## Setup
 
 Install the dependencies:
